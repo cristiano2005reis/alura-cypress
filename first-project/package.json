@@ -1,0 +1,22 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "First project with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristiano2005reis/alura-cypress.git"
+  },
+  "author": "Cristiano Reis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristiano2005reis/alura-cypress/issues"
+  },
+  "homepage": "https://github.com/cristiano2005reis/alura-cypress#readme",
+  "dependencies": {
+    "cypress": "^9.1.1"
+  }
+}
